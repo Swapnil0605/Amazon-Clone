@@ -1,0 +1,55 @@
+p{
+    font-family: Arial;
+}
+.vediotitle{
+
+    color: black;
+    width: 280px;
+    font-weight: bold;
+    font-size: 18px;
+    line-height: 24px;
+    margin-bottom: 5px;
+}
+
+.vediostarts{
+    color: gray;
+    font-size: 14px;
+    margin-top: 0;
+    margin-bottom: 20px;
+}
+
+.vedioauthor{
+    font-size: 14px;
+    color: rgb(128, 128, 128);
+    margin-top: 0;
+    margin-bottom: 20px;
+    
+}
+
+.discription{
+    font-size: 15px;
+    color: rgb(128, 128, 128);
+    margin-top: 0;
+    width: 300px;
+    line-height: 22px;
+    margin-bottom: 100px;
+}
+
+.selection{
+    margin-bottom: 50px;
+    font-size: 14px;
+    background-color: red;
+    padding-top: 18px;
+    padding-bottom: 18px;
+    color: white;
+    text-align: center;
+    
+}
+
+.shoplink{        
+    cursor:pointer;
+}
+
+.shoplink:hover {
+    text-decoration: underline;
+}
