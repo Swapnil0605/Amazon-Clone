@@ -1,0 +1,26 @@
+.m{
+    font-family: Montserrat;
+    font-size: 45px;
+    width: 400px;
+    text-align: center;
+    font-weight: 600;
+    margin-bottom: 5px;
+}
+.o{
+    font-family: Montserrat;
+    font-size: 20px;
+    width: 400px;
+    text-align: center;
+    margin-top: 0;
+    
+}
+.touch{
+    text-decoration: underline;
+}
+.touch:hover{
+    cursor: pointer;
+    opacity: 0.4;
+}
+.touch:active{
+    opacity: 0.6;
+}

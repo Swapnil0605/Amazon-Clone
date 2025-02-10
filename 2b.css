@@ -1,0 +1,41 @@
+.link:hover{
+    color: orange;
+}
+.letter{
+    font-weight: bolder;
+    font-size: large;
+}
+.stock{
+    color: rgb(17, 175, 17);
+    size: 19;
+
+}
+.amazon1{
+    width: 85px;
+    height: 40px;
+    background-color: rgb(255, 216, 20);
+    border-radius: 6px;
+    color: black;
+    margin-right: 4px;
+    cursor: pointer;
+}
+.amazon1:hover{
+    opacity: 0.9;
+}
+.amazon1:active{
+    opacity: 0.5;
+}
+.amazon2{
+    width: 85px;
+    height: 40px;
+    background-color: rgb(255, 164, 28);
+    border-radius: 6px;
+    color: black;
+    cursor: pointer;    
+}
+.amazon2:hover{
+    opacity: 0.9;
+}
+.amazon2:active{
+    opacity: 0.5;
+}
